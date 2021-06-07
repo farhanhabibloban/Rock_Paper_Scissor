@@ -1,2 +1,4 @@
 # Rock_Paper_Scissor
-Plug and Play
+Its a simple game,
+Paste it any python editor,
+and Plug and Play
