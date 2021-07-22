@@ -47,7 +47,7 @@ while True:
             print(f"The Computer Choice {comp} So That You Win!")
         else:
             print(f"The Computer Choice {comp} So That You Lose!")
-    break
+    continue
 
 
 
